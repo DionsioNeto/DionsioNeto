@@ -1,12 +1,3 @@
-<!--<style>
-  main{
-    display: flex;
-    flex-dection: coloumn;
-    align-items: center;
-    justify-content: center;
-  }
-</style>
--->
 <main>
 <h1>You're welcome to my page</h1>
 
