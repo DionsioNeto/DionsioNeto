@@ -4,6 +4,7 @@
 <div>
   <h3>My skills</h3>
   <div>
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width="45" height="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="35" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="35"/>
