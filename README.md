@@ -1,6 +1,6 @@
 # Olá, eu sou o Dinísio Neto
 
-### Minhas habilidades:
+## Minhas habilidades:
 
 
 <div>
@@ -16,3 +16,13 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" height="35"/>
 
 </div>
+
+## Formas de contacto:
+
+#### Número de telefone
+
+      +244 923 287 660
+
+#### E-mail
+
+      dionisioni304@gmail.com
