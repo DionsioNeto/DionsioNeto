@@ -3,7 +3,16 @@
 ![Dionísio stats](https://github-readme-stats.vercel.app/api?username=DionsioNeto&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionsioNeto)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966"/>
+
+
 
 ## Minhas habilidades:
 
