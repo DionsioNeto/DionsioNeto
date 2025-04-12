@@ -1,9 +1,9 @@
-# Olá, eu sou o Dinísio Neto
+# Hi, i'm Dinísio Neto
 
 ![Dionísio stats](https://github-readme-stats.vercel.app/api?username=DionsioNeto&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=DionsioNeto&layout=compact&langs_count=8&card_icons=true&theme=transparent)
 
-## Minhas habilidades:
+# My skills:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  width="45" alt="html"/>
